@@ -46,3 +46,6 @@
 [submodule "phoenix-rtos-doc"]
 	path = phoenix-rtos-doc
 	url = https://github.com/phoenix-rtos/phoenix-rtos-doc
+[submodule "libphoenix"]
+	path = libphoenix
+	url = git@github.com:eujotphoenix/libphoenix.git
