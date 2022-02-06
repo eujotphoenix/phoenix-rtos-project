@@ -1,51 +1,52 @@
 [submodule "phoenix-rtos-kernel"]
 	path = phoenix-rtos-kernel
-	url = git@github.com:eujotphoenix/phoenix-rtos-kernel.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-kernel.git
 [submodule "phoenix-rtos-build"]
 	path = phoenix-rtos-build
-	url = git@github.com:eujotphoenix/phoenix-rtos-build.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-build.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-build.git 
 [submodule "phoenix-rtos-ports"]
 	path = phoenix-rtos-ports
-	url = git@github.com:eujotphoenix/phoenix-rtos-ports.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-ports.git
 [submodule "phoenix-rtos-devices"]
 	path = phoenix-rtos-devices
-	url = git@github.com:eujotphoenix/phoenix-rtos-devices.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-devices.git
 [submodule "phoenix-rtos-filesystems"]
 	path = phoenix-rtos-filesystems
-	url = git@github.com:eujotphoenix/phoenix-rtos-filesystems.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-filesystems.git
 [submodule "phoenix-rtos-usb"]
 	path = phoenix-rtos-usb
-	url = git@github.com:eujotphoenix/phoenix-rtos-usb.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-usb.git
 [submodule "phoenix-rtos-lwip"]
 	path = phoenix-rtos-lwip
-	url = git@github.com:eujotphoenix/phoenix-rtos-lwip.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-lwip.git
 [submodule "phoenix-rtos-posixsrv"]
 	path = phoenix-rtos-posixsrv
-	url = git@github.com:eujotphoenix/phoenix-rtos-posixsrv.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-posixsrv.git
 [submodule "phoenix-rtos-tests"]
 	path = phoenix-rtos-tests
-	url = git@github.com:eujotphoenix/phoenix-rtos-tests.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-tests.git
 [submodule "phoenix-rtos-corelibs"]
 	path = phoenix-rtos-corelibs
-	url = git@github.com:eujotphoenix/phoenix-rtos-corelibs.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-corelibs.git
 [submodule "phoenix-rtos-hostutils"]
 	path = phoenix-rtos-hostutils
-	url = git@github.com:eujotphoenix/phoenix-rtos-hostutils.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-hostutils.git
 [submodule "phoenix-rtos-utils"]
 	path = phoenix-rtos-utils
-	url = git@github.com:eujotphoenix/phoenix-rtos-utils.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-utils.git
 [submodule "plo"]
 	path = plo
-	url = git@github.com:eujotphoenix/plo.git
+	url = https://github.com/eujotphoenix/plo.git
 [submodule "riscv/riscv-pk"]
 	path = riscv/riscv-pk
-	url = git@github.com:eujotphoenix/riscv-pk.git
+	url = https://github.com/eujotphoenix/riscv-pk.git
 [submodule "riscv/opensbi"]
 	path = riscv/opensbi
-	url = git@github.com:eujotphoenix/opensbi.git
+	url = https://github.com/eujotphoenix/opensbi.git
 [submodule "phoenix-rtos-doc"]
 	path = phoenix-rtos-doc
-	url = git@github.com:eujotphoenix/phoenix-rtos-doc.git
+	url = https://github.com/eujotphoenix/phoenix-rtos-doc.git
 [submodule "libphoenix"]
 	path = libphoenix
-	url = git@github.com:eujotphoenix/libphoenix.git
+	url = https://github.com/eujotphoenix/libphoenix.git
